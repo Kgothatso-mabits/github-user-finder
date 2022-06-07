@@ -1,0 +1,27 @@
+.copyright{
+    margin: 0.5rem 2rem 2rem;
+    align-items: center;
+    display: flex;
+}
+
+.footerSection{
+    display: flex;
+    justify-content: center;
+    margin: 2rem 2rem 0.5rem;
+}
+
+.footerSection a {
+    margin-left: 20px;;
+}
+
+.footerContainer{
+    align-items: center;
+    bottom: 0;
+    box-shadow: 0 0 .5rem 1px #888888;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 5rem;
+    position: relative;
+    width: 100%;
+}
